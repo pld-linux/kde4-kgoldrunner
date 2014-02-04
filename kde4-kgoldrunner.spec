@@ -4,12 +4,12 @@
 
 Summary:	KFourinline
 Name:		kde4-%{orgname}
-Version:	4.12.1
+Version:	4.12.2
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	5cd489c65b03e1e9132e3a06f62dea28
+# Source0-md5:	655b2e60680310512aba1a41cf4bc7ab
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
